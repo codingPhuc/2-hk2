@@ -1,0 +1,1 @@
+double_number = double_number*2
